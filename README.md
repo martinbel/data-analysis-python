@@ -13,4 +13,4 @@ You should know how to install packages and have some Python experience.
 ## Video Lectures
 
 - [01 - Exploratory Data Analysis with Pandas](https://youtu.be/SqZkSRnB0G0)
-- 02 - Retention rate analysis by cohorts
+- [02 - Retention rate analysis by cohorts](https://youtu.be/R6LSQhoiU0A)
