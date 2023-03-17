@@ -14,4 +14,5 @@ You should know how to install packages and have some Python experience.
 
 - [01 - Exploratory Data Analysis with Pandas](https://youtu.be/SqZkSRnB0G0)
 - [02 - Retention rate analysis by cohorts](https://youtu.be/R6LSQhoiU0A)
-- [03 - Pandas Core Operations.ipynb](https://youtu.be/YrLYTVphJBs)
+- [03 - Pandas Core Concepts](https://youtu.be/YrLYTVphJBs)
+- [04 - EDA of E-Commerce Sales Data - Bandcamp Music Marketplace](https://youtu.be/vxHgAQUw9xA)
