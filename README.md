@@ -16,3 +16,5 @@ You should know how to install packages and have some Python experience.
 - [02 - Retention rate analysis by cohorts](https://youtu.be/R6LSQhoiU0A)
 - [03 - Pandas Core Concepts](https://youtu.be/YrLYTVphJBs)
 - [04 - EDA of E-Commerce Sales Data - Bandcamp Music Marketplace](https://youtu.be/vxHgAQUw9xA)
+- [05 - Top 10 pandas tips and tricks](https://www.youtube.com/watch?v=9X3ExG_wnaU)
+- [Pandas Comprehensive Tutorial: From Zero To Hero in ONE Hour](https://www.youtube.com/watch?v=0c_GdZhfviE)
